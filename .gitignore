@@ -1,0 +1,16 @@
+.venv/
+.venv-local/
+.idea/
+target-local.sqlite*
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.uploads/
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/*.xlsx
+data/chroma/
+target/
+.DS_Store
